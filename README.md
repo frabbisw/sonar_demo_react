@@ -1,7 +1,3 @@
-### Setup and requirements 📋
-- [RN- Setting up the development environment](https://reactnative.dev/docs/environment-setup)
-- [Installing Maestro](https://maestro.mobile.dev/getting-started/installing-maestro)
-
 ## Getting Started 🚀
 - Clone the repo ` git clone git@github.com:vanGalilea/react-native-testing.git`
 - Run `yarn` to install dependencies
