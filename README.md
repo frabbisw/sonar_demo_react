@@ -1,7 +1,6 @@
 ## Getting Started 
 - Clone the repo ` git clone git@github.com:frabbisw/sonar_demo_react.git`
 - Run `yarn` to install dependencies
-- Explore RN CLI app and/or Expo app's tests and source code that are relevant to your use case.
 
 
 ## RN CLI application
