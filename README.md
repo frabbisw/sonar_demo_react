@@ -11,3 +11,4 @@
 - Run `yarn test:unit:coverage` to run the tests and generate a coverage report
 
 
+## run sonar
